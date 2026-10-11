@@ -1,0 +1,16 @@
+{
+  "days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
+  "periods_per_day": 6,
+  "subjects": ["PYTHON", "C++", "JAVA", "MACHINE LEARNING", "NLP", "OSS"],
+  "teachers": {
+    "PYTHON": "Mr. A",
+    "C++": "Mr. B",
+    "JAVA": "Ms. C",
+    "MACHINE LEARNING": "Ms. D",
+    "NLP": "Mr. E",
+    "OSS": "Ms. F"
+  },
+  "rooms": ["Room1", "Room2", "Room3"],
+  "max_classes_per_day": 2,
+  "break_periods": [2, 4]
+}
